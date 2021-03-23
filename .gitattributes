@@ -5,3 +5,10 @@ Release-iphoneos/AudioKit.framework/AudioKit filter=lfs diff=lfs merge=lfs -text
 Release-iphoneos/AudioKitUI.framework/AudioKitUI filter=lfs diff=lfs merge=lfs -text
 Release-iphonesimulator/AudioKit.framework/AudioKit filter=lfs diff=lfs merge=lfs -text
 Release-iphonesimulator/AudioKitUI.framework/AudioKitUI filter=lfs diff=lfs merge=lfs -text
+Release/AudioKit.framework/Versions/A/AudioKit filter=lfs diff=lfs merge=lfs -text
+Release/AudioKitUI.framework/Versions/A/AudioKitUI filter=lfs diff=lfs merge=lfs -text
+Release-iphoneos/AudioKitUI.framework/Versions/A/AudioKitUI filter=lfs diff=lfs merge=lfs -text
+Release-iphoneos/AudioKit.framework/Versions/A/AudioKit filter=lfs diff=lfs merge=lfs -text
+Release-iphonesimulator/AudioKit.framework/Versions/A/AudioKit filter=lfs diff=lfs merge=lfs -text
+Release-iphonesimulator/AudioKitUI.framework/Versions/A/AudioKitUI filter=lfs diff=lfs merge=lfs -text
+Release/AudioKit.framework/Versions/Current/AudioKit filter=lfs diff=lfs merge=lfs -text
